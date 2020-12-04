@@ -2,6 +2,7 @@
 ![](https://technischools.com/static/media/logots.png)
 -------------
 Kanał na yt: https://www.youtube.com/channel/UCfIthg-_i_ONHwlLcKvanZQ
+
 WWWW: https://technischools.com
 
 ### Zajęcia z programowania i algorytmiki (przygotowanie do olimpiady informatycznej)
