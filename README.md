@@ -1,4 +1,4 @@
-# Matierały do zajęć - webinarów Techni Schools
+# Materiały do zajęć - webinarów Techni Schools
 ![](https://technischools.com/static/media/logots.png)
 -------------
 Kanał na yt: https://www.youtube.com/channel/UCfIthg-_i_ONHwlLcKvanZQ
