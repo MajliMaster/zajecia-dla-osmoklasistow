@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- FAVICON -->
+    <link rel="icon" href="./img/html5_logo.png" type="image/gif" sizes="16x16">
+    <!-- RESETOWANIE STYLI -->
+    <link rel="stylesheet" href="./css/reset.css">
+    <!-- IMPORTOWANIE CZCIONKI -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet">
+    
+    <title>HTML | Pierwsze kroki</title>
+</head>
+
+<style>
+    body {
+        font-family: 'Oswald', sans-serif;
+        padding: 20px 0;
+    }
+    h1 {
+        font-size: 28px;
+        margin-bottom: 20px;
+    }
+    h2 {
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+    div {
+        background: red;
+        padding: 20px;
+        margin-bottom: 20px;
+    }
+    .col-holder {
+        display: flex;
+        background: white;
+    }
+    .col {
+        margin: 10px;
+        width: 100%;
+    }
+    a {
+        color: black;
+        margin-top: 10px;
+        display: inline-block;
+    }
+    img {
+        width: 200px;
+    }
+</style>
+
+<body id="body">
+    <div id="header" class="header">
+        <h1>Pierwsze kroki z HTML-em</h1>
+        <h2>Praca z tagami i atrybutami</h2>
+    </div>
+
+    <div id="content" class="content">
+        
+        <h2>Content</h2>
+        
+        <div id="col-holder" class="col-holder">
+            <div id="col" class="col">
+                <p>col-1</p>
+
+                <a href="page-1.html">
+                    <strong>Strona 1</strong>
+                </a>
+            </div>
+
+            <div id="col" class="col">
+                <p>col-2</p>
+
+                <a href="https://technischools.com/" target="_blank">
+                    <strong>Technischools</strong>
+                </a>
+            </div>
+
+        </div>
+
+    </div>
+
+    <div id="footer" class="footer">
+        <p>Footer</p>
+        <div id="form" class="form">
+            <form action="./page-1.html" method="GET">
+
+                <label for="fname">Imię:</label><br>
+                <input type="text" id="fname" name="fname"><br>
+
+                <label for="lname">Nazwisko</label><br>
+                <input type="text" id="lname" name="lname"><br>
+
+                <button type="submit">Wyślij</button>
+            </form>
+        </div>
+        <div>
+            <img src="https://pliki.serwisyregionalne.pl/ckie/pliki_emisyjne/Logo-TechniSchools.jpg" alt="Logo technischool">
+        </div>
+    </div>
+</body>
+
+</html>
