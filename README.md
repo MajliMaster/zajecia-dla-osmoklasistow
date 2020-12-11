@@ -9,16 +9,22 @@ WWWW: https://technischools.com
 -------------
 I zajęcia - https://www.youtube.com/watch?v=2IWAi7Aehn0
 
-II zajęcia - 05.12
+II zajęcia - https://youtu.be/tL19IcCvteI
+
+III zajęcia - 12.12.2020
 
 ### Zajęcia z programowania stron internetowych
 -------------
 I zajęcia - https://www.youtube.com/watch?v=mdu_t5ya_F8
 
-II zajęcia - 05.12
+II zajęcia - https://youtu.be/t5LqJ1q1G_k
+
+III zajęcia - 12.12.2020
 
 ### Zajęcia z programowania gier
 -------------
 I zajęcia - https://www.youtube.com/watch?v=E8px23-64AA
 
-II zajęcia - 05.12
+II zajęcia - https://youtu.be/8gFFx9AatlM
+
+III zajęcia - 12.12.2020
