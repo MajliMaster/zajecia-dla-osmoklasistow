@@ -11,7 +11,9 @@ I zajęcia - https://www.youtube.com/watch?v=2IWAi7Aehn0
 
 II zajęcia - https://youtu.be/tL19IcCvteI
 
-III zajęcia - 12.12.2020
+III zajęcia - https://www.youtube.com/watch?v=ZP_pqRI8mWE&t=5289s
+
+IV zajęcia - 19.12.2020
 
 ### Zajęcia z programowania stron internetowych
 -------------
@@ -19,7 +21,9 @@ I zajęcia - https://www.youtube.com/watch?v=mdu_t5ya_F8
 
 II zajęcia - https://youtu.be/t5LqJ1q1G_k
 
-III zajęcia - 12.12.2020
+III zajęcia - https://www.youtube.com/watch?v=WnF4XfXOZS4
+
+IV zajęcia - 19.12.2020
 
 ### Zajęcia z programowania gier
 -------------
@@ -27,4 +31,7 @@ I zajęcia - https://www.youtube.com/watch?v=E8px23-64AA
 
 II zajęcia - https://youtu.be/8gFFx9AatlM
 
-III zajęcia - 12.12.2020
+III zajęcia - https://www.youtube.com/watch?v=wuhW6cSoooo
+
+IV zajęcia - 19.12.2020
+
