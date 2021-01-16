@@ -3,7 +3,7 @@
 -------------
 Kanał na yt: https://www.youtube.com/channel/UCfIthg-_i_ONHwlLcKvanZQ
 
-WWWW: https://technischools.com
+WWW: https://technischools.com
 
 ### Zajęcia z programowania i algorytmiki (przygotowanie do olimpiady informatycznej)
 -------------
@@ -13,7 +13,11 @@ II zajęcia - https://youtu.be/tL19IcCvteI
 
 III zajęcia - https://www.youtube.com/watch?v=ZP_pqRI8mWE&t=5289s
 
-IV zajęcia - 19.12.2020
+IV zajęcia - https://www.youtube.com/watch?v=HgexnJTMc1Q&t=3721s
+
+V zajęcia - https://www.youtube.com/watch?v=9FzlqdAE-uI&t=1478s
+
+VI zajęcia - 16.01.2021r.
 
 ### Zajęcia z programowania stron internetowych
 -------------
@@ -23,7 +27,11 @@ II zajęcia - https://youtu.be/t5LqJ1q1G_k
 
 III zajęcia - https://www.youtube.com/watch?v=WnF4XfXOZS4
 
-IV zajęcia - 19.12.2020
+IV zajęcia - https://www.youtube.com/watch?v=3dpuTYcY4mE
+
+V zajęcia - https://www.youtube.com/watch?v=QvpuSrIHlWM
+
+VI zajęcia - 16.01.2021r.
 
 ### Zajęcia z programowania gier
 -------------
@@ -33,5 +41,9 @@ II zajęcia - https://youtu.be/8gFFx9AatlM
 
 III zajęcia - https://www.youtube.com/watch?v=wuhW6cSoooo
 
-IV zajęcia - 19.12.2020
+IV zajęcia - https://www.youtube.com/watch?v=B1a04qMfPDs&t=704s
+
+V zajęcia - https://www.youtube.com/watch?v=Rko2fTuxD74
+
+VI zajęcia - 16.01.2021r.
 
